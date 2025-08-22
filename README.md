@@ -15,4 +15,8 @@ This project is built using **HTML & CSS**, focusing on clean UI design with rec
 ---
 
 ## 📂 Project Structure  
-
+├── index.html # Home page
+├── about.html # About page
+├── contact.html # Contact page
+├── style.css # Main stylesheet
+└── images/ # Recipe images
